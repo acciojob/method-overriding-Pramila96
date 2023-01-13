@@ -11,7 +11,7 @@ public class Main {
         System.out.println(str);
   
 }
-static class A
+public static class A
 {
     public String meth()
     {
@@ -19,7 +19,7 @@ static class A
     }
 
 }
-static class B extends A
+public static class B extends A
 {
 public String meth()
 {
